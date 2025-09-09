@@ -12,7 +12,7 @@ function insert_Row() {
 
 	//assign values to the cell
 	cell1.innerHTML = "New Cell1"
-	cell2.innerHTML = "New cell2"
+	cell2.innerHTML = "New Cell2"
   
   
 }
